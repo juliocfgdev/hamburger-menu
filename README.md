@@ -1,8 +1,8 @@
 # hamburger-menu
-
-Live Version: https://juliocfgdev.github.io/hamburger-menu/
-
-Hamburger Menu, done with only HTML and CSS.
-It has full functionality and responsiveness.
+## Descrição
+Hamburger Menu feito utilizando apenas HTML e CSS, possui funcionalidade e reponsividade completa e alta perfomance.
+### Tecnologias Usadas:
+* HTML5
+* CSS3
 
 Thanks to Brad Traversy for the tutorial
